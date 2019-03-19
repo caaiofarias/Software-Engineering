@@ -1,0 +1,11 @@
+BSI- CAIO FARIAS CAVALCANTI - TESTE 1
+
+1.1: Este programa se refere a mutiplicação entre matrizes. A maior instancia possível é quando cada elemento da matriz for mutiplicado.
+
+1.2: (O)n²*m. Onde N é o tamanho de cada lista(X,Y) e M é o tamanho do primeiro elemento da lista(Y). 
+
+1.3: Matrizes geralmente são "muito" custosas, e, numa mutiplicação entre duas matrizes, onde todos os elementos são acessados, a ordem de n*m é o melhor custo possível para resolução deste problema.
+
+
+2:  Na seção 1.1(The Nature of Software) do livro "Software Engineering - A Practitioner's Approach (Eighth Edition)", é dito que o software nos entrega o produto mais importante da atualidade - a informação. Portanto, sim, visto que independente da área em que se encontra, o produto continua sendo um software. Seja no meio acadêmico, ou em uma multinacional, o produto final contemplado é um software, devendo ser tratado como tal em qualquer área de atuação, e devendo ser seguida as práticas de engenharia de software em todos os casos.
+
