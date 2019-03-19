@@ -1,6 +1,15 @@
 BSI- CAIO FARIAS CAVALCANTI - TESTE 1
 
-1.1: Este programa se refere a mutiplicação entre matrizes. A maior instancia possível é quando cada elemento da matriz for mutiplicado.
+1. Você é um Engenheiro de Software de um time de desenvolvimento e
+implementou o código abaixo em Python para converter, a posteriori, para um
+dispositivo Android com 200KB de memória.
+1.1 Qual a maior instância de problema que ele conseguirá resolver?
+1.2 Qual a ordem de complexidade computacional estimada para este código?
+1.3 Qual o custo ótimo para se resolver um problema desses? explique os
+porquês?
+
+Respostas:
+1.1: Este programa se refere a mutiplicação entre matrizes. A maior instancia possível é quando cada elemento da matriz for mutiplicado. Pois ele percorre por todos os elementos da matriz, operando entre todos.
 
 1.2: (O)n²*m. Onde N é o tamanho de cada lista(X,Y) e M é o tamanho do primeiro elemento da lista(Y). 
 
