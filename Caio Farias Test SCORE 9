@@ -1,0 +1,43 @@
+31.9: 
+
+i choosed an open paradigm software team with a agile methodology
+
+
+32.6: 
+
+A. The codelines as measure for software productivity it's not the best option, because even the programmer made thousand of codelines, we don't know if if related to the project. If is right or not. The best approach is by funcionality of code, if what was made wortwhile and is relevant to the project. this way we ensure that the programmer is evaluated not by quantity but by quality.
+
+
+Certainly, since as the codes are reused, their productivity will still be high because of these already made. 
+
+
+33.2: 
+
+Project size
+Function Point
+e.g
+Cyclomatic measures
+
+34.5: 
+
+on the final resources, adding a new people make more faster the job and the project schedule can be more divided between the members.
+
+35.5: 
+
+        Risks                             / Category / Probability / RMMM
+
+Size estimate may be significantly low         PS           30%
+Larger number of users than planned            PS           80%
+Less reuse than planned                        PS           50%
+End users resist system                        BU           90%
+Delivery deadline will be tightened            BU           50%
+Funding will be lost                           CU           60%
+Customer will change requirements              PS           30%
+Technology will not meet expectations          TE           20%
+Lack of training on tools                      DE           70%
+Staff inexperienced                            ST           60%
+Staff turnover will be high                    ST           60%
+
+36.7: 
+
+Designers of consumer product ICs are faced today with the challenges of rapidly increasing complexity, a market with high expectations and static price points. To stay competitive, design teams must find a way to reduce thecost and improve the efficiency of IC design. This dilemma has gone beyondthe capacity of existing methodologies, and the industry is in urgent need of anew approach. Most agree that the solution to improving cost and efficiencyis to move to a higher level of abstraction—but what is the best route to get there? 
